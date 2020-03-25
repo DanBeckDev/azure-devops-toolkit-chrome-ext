@@ -1,0 +1,7 @@
+.vs-code-button {
+  background: none !important;
+  border: 0.2rem;
+  padding: 0 !important;
+  text-decoration: underline;
+  cursor: pointer;
+}
