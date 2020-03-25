@@ -16,7 +16,7 @@ This feature adds a button which opens the current file in vs code when someone 
 
 1. **Clone the repository**
 ```
-git pull https://github.com/boreme12/azure-deveops-toolkit-chrome-ext.git
+git pull https://github.com/boreme12/azure-devops-toolkit-chrome-ext.git
 ```
 2. **Install npm packages in the root directory**
 ```
@@ -39,6 +39,7 @@ npm run build-prod
 1. Enter your project directory and click save
 
 ## TODOs
+- [ ] Create icons and artwork for application and Chrome store
 - [ ] Update UI/UX
 - [ ] Implement compatibility with other IDEs
 - [ ] Refactor code
